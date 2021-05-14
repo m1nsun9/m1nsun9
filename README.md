@@ -3,7 +3,9 @@
 - 🔭 I’m currently working on finding an entry-level job as a Data Analyst
 - 🌱 I’m currently learning how to optimize machine learning models on Kaggle 📈
 - 👯 I’m looking to collaborate on ML projects 🤖🤖
-- 📫 How to reach me: [Email](m1nsun9.lee@gmail.com)
-- 📁 View my portfolio [here](https://minsung.me)
+- 📁 View my portfolio here: [Portfolio](https://minsung.me)
+- 💬 Message me here: [LinkedIn](https://linkedin.com/in/m1nsun9)
+- 📱 Call me here: +1(412)417-1987
+- 📫 Reach me via email: m1nsun9.lee@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love collecting desk toys 🧸
