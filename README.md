@@ -11,4 +11,4 @@
 - ⚡ Fun fact: I love collecting desk toys 🧸
 
 
-[!][Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1nsun9&layout=compact)](https://github.com/m1nsun9/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1nsun9&layout=compact)](https://github.com/m1nsun9/github-readme-stats)
