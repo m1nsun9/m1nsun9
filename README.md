@@ -16,4 +16,4 @@
 
 ## 💡 Github Stats 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1nsun9&layout=compact)](https://github.com/m1nsun9/github-readme-stats)
+![Aaron's Github Stats](https://github-readme-stats.vercel.app/api?username=m1nsun9&show_icons=true&theme=dark)
