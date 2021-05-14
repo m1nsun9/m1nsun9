@@ -9,3 +9,6 @@
 - 📱 Call me here: (949) 484-6924
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love collecting desk toys 🧸
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**m1nsun9**&layout=compact)](https://github.com/**m1nsun9**/github-readme-stats)
