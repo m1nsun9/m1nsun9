@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ML projects 🤖🤖
 - 📁 View my portfolio here: [Portfolio](https://minsung.me)
 - 💬 Message me here: [LinkedIn](https://linkedin.com/in/m1nsun9)
-- 📱 Call me here: +1(412)417-1987
 - 📫 Reach me via email: m1nsun9.lee@gmail.com
+- 📱 Call me here: (412) 417-1987
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love collecting desk toys 🧸
