@@ -10,6 +10,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love collecting desk toys 🧸
 
-## Most Language Stats 💡
+## 💡 Most Used Language Stats 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1nsun9&layout=compact)](https://github.com/m1nsun9/github-readme-stats)
+
+## 💡 Github Stats 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m1nsun9&layout=compact)](https://github.com/m1nsun9/github-readme-stats)
