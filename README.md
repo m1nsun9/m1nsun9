@@ -6,7 +6,7 @@ I'm a Data Analyst with a proven ability to focus on the details in collaborativ
 - 🌱 I’m currently learning how to optimize machine learning models on Kaggle 📈
 - 👯 I’m looking to collaborate on ML projects 🤖🤖
 - 📁 View my portfolio here: [Portfolio](https://minsung.me)
-- 📝 View my resume: [Resume](Resume/Min\ Aaron\ Lee\ Resume.pdf)
+- 📝 View my resume: [Resume](Resume/Min_Aaron_Lee_Resume.pdf)
 - 💬 Message me here: [LinkedIn](https://linkedin.com/in/m1nsun9)
 - 📫 Reach me via email: m1nsun9.lee@gmail.com
 - 📱 Call me here: (949) 484-6924
